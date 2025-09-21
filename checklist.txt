@@ -2,4 +2,4 @@ Python version: 3.13.7
 Virtual environment: active (venv)
 Django version: 5.0.3
 Runserver: working (http://127.0.0.1:8000/)
-Git remote: 
+Git remote: https://github.com/jiviepajaron-del/Assignment2.git
